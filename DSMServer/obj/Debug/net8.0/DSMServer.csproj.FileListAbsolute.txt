@@ -1,0 +1,15 @@
+D:\Mani New Api\DSMServer\DSMServer\bin\Debug\net8.0\DSMServer.exe
+D:\Mani New Api\DSMServer\DSMServer\bin\Debug\net8.0\DSMServer.deps.json
+D:\Mani New Api\DSMServer\DSMServer\bin\Debug\net8.0\DSMServer.runtimeconfig.json
+D:\Mani New Api\DSMServer\DSMServer\bin\Debug\net8.0\DSMServer.dll
+D:\Mani New Api\DSMServer\DSMServer\bin\Debug\net8.0\DSMServer.pdb
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.AssemblyInfoInputs.cache
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.AssemblyInfo.cs
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.csproj.CoreCompileInputs.cache
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.sourcelink.json
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.dll
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\refint\DSMServer.dll
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.pdb
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\DSMServer.genruntimeconfig.cache
+D:\Mani New Api\DSMServer\DSMServer\obj\Debug\net8.0\ref\DSMServer.dll

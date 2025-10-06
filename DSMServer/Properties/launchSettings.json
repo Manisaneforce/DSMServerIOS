@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DSMServer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
